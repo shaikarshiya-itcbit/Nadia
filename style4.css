@@ -1,0 +1,38 @@
+body {
+    background-color: coral;
+    font-family: 'Dancing Script', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.confirmation-box {
+    text-align: center;
+    background: rgb(250, 197, 177);
+    padding: 70px;
+    border-radius: 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.confirmation-box h1, .confirmation-box h3 {
+    margin: 0;
+}
+
+.confirmation-box h1 {
+    
+
+  font-family: "Briem Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+
+    font-size: 4rem;
+    margin-bottom: 30px;
+}
+
+.confirmation-box h3 {
+    font-size: 2rem;
+}
+
